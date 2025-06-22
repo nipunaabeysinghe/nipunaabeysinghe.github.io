@@ -25,6 +25,7 @@ Used **SolidWorks** to model the tool.
 Required tool angel was determined as 16˚ using FEA tools. Press tool slipping during bending was identified, tool design was updated with guiding pins.
 #### Results
 Fabricated the tool according to simulation results. The tool provided the required bend without damaging PCB surface. Reduced material and time consumption for tool production and verification.
+![FEA_tool](/Assets/img/FEA_tool.png)
 ### Statistical process control @ GPV Lanka
 #### What?
 Statistical process control for continuous improvement. Determine how raw material parameter change effect end product FPY 
