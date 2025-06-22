@@ -10,3 +10,13 @@ Hands-on mechatronics engineer with 8+ years of experience in manufacturing and 
 - Automation & Control systems (Festo FluidSim, SIMATIC S7, PLC Programming & Microcontroller)
 
 ## Projects
+### MCAD for assembly instructions - GPV Lanka
+#### What?
+Complex assembly instructions on paper is harder for operators to completely understand.
+Create interactive visual work instruction for each process step
+### How?
+Used SolidWorks composer to model complex assembly.
+Using Aegis’ Factory Logix MES created step-by-step animated assembly instructions.
+### Results
+Reduced training and skill requirements for new operators.
+Reduced delay and cost due to assembly mistakes.
