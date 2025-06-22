@@ -10,11 +10,11 @@ With 8+ years of experience in manufacturing and production environments, includ
 
 ## Projects
 ### MCAD for assembly instructions @ GPV Lanka
-#### What?
+##### What?
 Complex assembly instructions on paper is harder for operators to completely understand. Create interactive visual work instruction for each process step.
-#### How?
+##### How?
 Used **SolidWorks composer** to model complex assembly. Using **Aegis’ Factory Logix MES** created step-by-step animated assembly instructions.
-#### Results
+##### Results
 Reduced training and skill requirements for new operators. Reduced delay and cost due to assembly mistakes.
 ![MCAD](/Assets/img/MCAD.png)
 ### FEA simulation for PCB Bending tool @ GPV Lanka
@@ -32,3 +32,9 @@ Statistical process control for continuous improvement. Determine how raw materi
 Gather material, process, environment and product test result data. Use data analysis tools like **Minitab** to determine correlation. Use SPC to measures and controls quality.
  #### Results
 Improving product quality and consistency, reducing waste and rework. Enhancing productivity and efficiency and supporting continuous improvement and innovation.
+### lean Production layout @ GPV Lanka
+#### What?
+Production layout change according to material flow. Spaghetti diagram for current layout. Predict the optimal layout for available space.
+#### How?
+Cread digital CAD drawing of the complete area. Arrange production sections according to material flow.
+ #### Results
