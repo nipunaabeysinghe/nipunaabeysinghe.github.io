@@ -11,24 +11,24 @@ With 8+ years of experience in manufacturing and production environments, includ
 ## Projects
 ### MCAD for assembly instructions @ GPV Lanka
 #### What?
-Complex assembly instructions on paper is harder for operators to completely understand.
-Create interactive visual work instruction for each process step
+Complex assembly instructions on paper is harder for operators to completely understand. Create interactive visual work instruction for each process step.
 #### How?
-Used **SolidWorks composer** to model complex assembly.
-Using **Aegis’ Factory Logix MES** created step-by-step animated assembly instructions.
+Used **SolidWorks composer** to model complex assembly. Using **Aegis’ Factory Logix MES** created step-by-step animated assembly instructions.
 #### Results
-Reduced training and skill requirements for new operators.
-Reduced delay and cost due to assembly mistakes.
+Reduced training and skill requirements for new operators. Reduced delay and cost due to assembly mistakes.
 ![MCAD](/Assets/img/MCAD.png)
 ### FEA simulation for PCB Bending tool @ GPV Lanka
 #### What?
-Design a tool to bend the aluminum PCB 12˚inwards from both ends at a distance of 11mm.
-Predict the requited tool angle to compensating for the spring back.
+Design a tool to bend the aluminum PCB 12˚inwards from both ends at a distance of 11mm. Predict the requited tool angle to compensating for the spring back.
 #### How?
 Used **SolidWorks** to model the tool. 
-Required tool angel was determined as 16˚ using FEA tools.
-Press tool slipping during bending was identified, tool design was updated with guiding pins.
+Required tool angel was determined as 16˚ using FEA tools. Press tool slipping during bending was identified, tool design was updated with guiding pins.
 #### Results
-Fabricated the tool according to simulation results.
-The tool provided the required bend without damaging PCB surface.
-Reduced material and time consumption for tool production and verification.
+Fabricated the tool according to simulation results. The tool provided the required bend without damaging PCB surface. Reduced material and time consumption for tool production and verification.
+### statistical process control @ GPV Lanka
+#### What?
+Statistical process control for continuous improvement. Determine how raw material parameter change effect end product FPY 
+#### How?
+Gather material, process, environment and product test result data. Use data analysis tools like **Minitab** to determine correlation. Use SPC to measures and controls quality.
+ #### Results
+Improving product quality and consistency, reducing waste and rework. Enhancing productivity and efficiency and supporting continuous improvement and innovation.
