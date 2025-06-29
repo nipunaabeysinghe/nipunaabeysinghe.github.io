@@ -19,19 +19,12 @@ As the NPI engineer, designed and simulated a manual bending tool to meet produc
 ![tool_gif](Assets/img/Aluminium_PCB_bending_sim/Sim_gif.gif)
 ![tool_design](Assets/img/Aluminium_PCB_bending_sim/FEA_tool.png)
 
-### Statistical process control @ GPV Lanka
-#### What?
-Statistical process control for continuous improvement. Determine how raw material parameter change effect end product FPY 
-#### How?
-Gather material, process, environment and product test result data. Use data analysis tools like **Minitab** to determine correlation. Use SPC to measures and controls quality.
- #### Results
-Improving product quality and consistency, reducing waste and rework. Enhancing productivity and efficiency and supporting continuous improvement and innovation.
-### Lean production layout @ GPV Lanka
-#### What?
-Production layout change according to material flow. Spaghetti diagram for current layout. Predict the optimal layout for available space.
-#### How?
-Cread digital CAD drawing of the complete area. Arrange production sections according to material flow.
-#### Results
+### Statistical Process Control – Transformer Manufacturing | GPV Lanka
+Led SPC initiatives to enhance first pass yield (FPY) in the production of transformers. Collected and analyzed process, material, and environmental data—including ferrite core AL values, wire and core lot traceability, and epoxy curing conditions—using Minitab and statistical tools. Conducted experiments to identify root causes of FPY variation. This resulted in improved product quality, reduced rework, and more efficient fault identification and resolution.
+
+### Digital Layout Redesign with visTABLE® – Transformer Production | GPV Lanka
+Led the redesign of the transformer production layout using visTABLE to support lean manufacturing and digital planning initiatives. Utilized CAD-based modeling and spaghetti diagram analysis to optimize operator and material flow across the production floor. The implemented layout reduced movement between operations, improved space utilization, and contributed to the company’s digital transformation toward data-driven factory planning.
+
 ### Return loop automation @ hirdaramani industries
 #### What?
 Automate loop sewing and ironing process. Reduce operator requirement and improve consistency and quality.
