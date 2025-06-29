@@ -16,9 +16,9 @@ Complex assembly instructions on paper is harder for operators to completely und
 Used **SolidWorks composer** to model complex assembly. Using **Aegis’ Factory Logix MES** created step-by-step animated assembly instructions.
 #### Results
 Reduced training and skill requirements for new operators. Reduced delay and cost due to assembly mistakes.
-![MCAD](Assets/img/MCAD/MCAD.png)
+![MCAD_screen_shots](Assets/img/MCAD/MCAD.png)
 
-![MCAD](Assets/img/MCAD/MCAD_gif.gif)
+![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
 ### FEA simulation for PCB bending tool @ GPV Lanka
 #### What?
 Design a tool to bend the aluminum PCB 12˚inwards from both ends at a distance of 11mm. Predict the requited tool angle to compensating for the spring back.
@@ -27,8 +27,9 @@ Used **SolidWorks** to model the tool.
 Required tool angel was determined as 16˚ using FEA tools. Press tool slipping during bending was identified, tool design was updated with guiding pins.
 #### Results
 Fabricated the tool according to simulation results. The tool provided the required bend without damaging PCB surface. Reduced material and time consumption for tool production and verification.
-![Dispacement](Assets/img/Aluminium_PCB_bending_sim/displacenemt.PNG)
-![Simulation](Assets/img/Aluminium_PCB_bending_sim/Sim_gif.gif)
+![tool_design](Assets/img/Aluminium_PCB_bending_sim/FEA_tool.png)
+
+![tool_gif](Assets/img/Aluminium_PCB_bending_sim/Sim_gif.gif)
 ### Statistical process control @ GPV Lanka
 #### What?
 Statistical process control for continuous improvement. Determine how raw material parameter change effect end product FPY 
