@@ -9,7 +9,7 @@ With 8+ years of experience in manufacturing and production environments, includ
 - Automation & Control systems (Festo FluidSim, SIMATIC S7, PLC Programming & Microcontroller)
 
 ## Projects
-### MCAD for assembly instructions @ GPV Lanka
+### Interactive assembly instructions @ GPV Lanka
 #### What?
 Complex assembly instructions on paper is harder for operators to completely understand. Create interactive visual work instruction for each process step.
 #### How?
