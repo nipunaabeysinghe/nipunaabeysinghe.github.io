@@ -9,13 +9,8 @@ With 8+ years of experience in manufacturing and production environments, includ
 - Automation & Control systems (Festo FluidSim, SIMATIC S7, PLC Programming & Microcontroller)
 
 ## Projects
-### Interactive assembly instructions @ GPV Lanka
-#### What?
-Complex assembly instructions on paper is harder for operators to completely understand. Create interactive visual work instruction for each process step.
-#### How?
-Used **SolidWorks composer** to model complex assembly. Using **Aegis’ Factory Logix MES** created step-by-step animated assembly instructions.
-#### Results
-Reduced training and skill requirements for new operators. Reduced delay and cost due to assembly mistakes.
+### Interactive Assembly Instructions – Pilot Project | GPV Lanka
+Designed and implemented interactive step-by-step assembly instructions for complex PCB, cable, and mechanical housing assemblies using SolidWorks Composer and Aegis FactoryLogix MES. Instructions were displayed on touchscreen stations in the mechanical assembly area, guiding operators visually through each process including precise part placement and torque specs. As the project lead, I created 3D mechanical models and integrated them into the MES system. The pilot reduced training needs and minimized assembly errors, demonstrating the potential of MES-driven visual workflows.
 ![MCAD_screen_shots](Assets/img/MCAD/MCAD.png)
 
 ![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
