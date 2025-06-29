@@ -11,20 +11,14 @@ With 8+ years of experience in manufacturing and production environments, includ
 ## Projects
 ### Interactive Assembly Instructions – Pilot Project | GPV Lanka
 Designed and implemented interactive step-by-step assembly instructions for complex PCB, cable, and mechanical housing assemblies using SolidWorks Composer and Aegis FactoryLogix MES. Instructions were displayed on touchscreen stations in the mechanical assembly area, guiding operators visually through each process including precise part placement and torque specs. As the project lead, I created 3D mechanical models and integrated them into the MES system. The pilot reduced training needs and minimized assembly errors, demonstrating the potential of MES-driven visual workflows.
+![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
 ![MCAD_screen_shots](Assets/img/MCAD/MCAD.png)
 
-![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
-### FEA simulation for PCB bending tool @ GPV Lanka
-#### What?
-Design a tool to bend the aluminum PCB 12˚inwards from both ends at a distance of 11mm. Predict the requited tool angle to compensating for the spring back.
-#### How?
-Used **SolidWorks** to model the tool. 
-Required tool angel was determined as 16˚ using FEA tools. Press tool slipping during bending was identified, tool design was updated with guiding pins.
-#### Results
-Fabricated the tool according to simulation results. The tool provided the required bend without damaging PCB surface. Reduced material and time consumption for tool production and verification.
+### FEA-Based PCB Bending Tool Design | GPV Lanka
+As the NPI engineer, designed and simulated a manual bending tool to meet product requirements for a 12° inward bend on aluminum PCBs. Used SolidWorks and FEA to determine a 16° tool angle to account for spring-back, and updated the design with guide pins to prevent slipping. The tool was successfully fabricated and deployed in production, achieving accurate bends without surface damage and reducing development time and material use.
+![tool_gif](Assets/img/Aluminium_PCB_bending_sim/Sim_gif.gif)
 ![tool_design](Assets/img/Aluminium_PCB_bending_sim/FEA_tool.png)
 
-![tool_gif](Assets/img/Aluminium_PCB_bending_sim/Sim_gif.gif)
 ### Statistical process control @ GPV Lanka
 #### What?
 Statistical process control for continuous improvement. Determine how raw material parameter change effect end product FPY 
