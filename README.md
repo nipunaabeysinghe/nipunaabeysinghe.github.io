@@ -16,7 +16,9 @@ Complex assembly instructions on paper is harder for operators to completely und
 Used **SolidWorks composer** to model complex assembly. Using **Aegis’ Factory Logix MES** created step-by-step animated assembly instructions.
 #### Results
 Reduced training and skill requirements for new operators. Reduced delay and cost due to assembly mistakes.
-![MCAD](/Assets/img/MCAD.png)
+![MCAD](Assets/img/MCAD/MCAD.png)
+
+![MCAD](Assets/img/MCAD/MCAD_gif.gif)
 ### FEA simulation for PCB bending tool @ GPV Lanka
 #### What?
 Design a tool to bend the aluminum PCB 12˚inwards from both ends at a distance of 11mm. Predict the requited tool angle to compensating for the spring back.
