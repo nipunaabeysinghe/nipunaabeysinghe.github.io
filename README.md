@@ -12,7 +12,7 @@ With 8+ years of experience in manufacturing and production environments, includ
 ### Interactive Assembly Instructions – Pilot Project | GPV Lanka
 Designed and implemented interactive step-by-step assembly instructions for complex PCB, cable, and mechanical housing assemblies using SolidWorks Composer and Aegis FactoryLogix MES. Instructions were displayed on touchscreen stations in the mechanical assembly area, guiding operators visually through each process including precise part placement and torque specs. As the project lead, I created 3D mechanical models and integrated them into the MES system. The pilot reduced training needs and minimized assembly errors, demonstrating the potential of MES-driven visual workflows.
 ![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
-![MCAD_screen_shots](Assets/img/MCAD/MCAD.png)
+![Exploded_BOM_view](Assets/img/MCAD/Expolded_BOM_view.png)
 
 ### FEA-Based PCB Bending Tool Design | GPV Lanka
 As the NPI engineer, designed and simulated a manual bending tool to meet product requirements for a 12° inward bend on aluminum PCBs. Used SolidWorks and FEA to determine a 16° tool angle to account for spring-back, and updated the design with guide pins to prevent slipping. The tool was successfully fabricated and deployed in production, achieving accurate bends without surface damage and reducing development time and material use.
