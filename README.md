@@ -14,7 +14,7 @@ Designed and implemented interactive step-by-step assembly instructions for comp
 ![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
 <sup>*Assembly instructions dispaly in Aegis FactoryLogix MES* </sup>
 ![Exploded_BOM_view](Assets/img/MCAD/Expolded_BOM_view.png)
-
+<sup>*Exploded_BOM_view in SolidWorks Composer* </sup>
 ### FEA-Based PCB Bending Tool Design | GPV Lanka
 As the NPI engineer, designed and simulated a manual bending tool to meet product requirements for a 12° inward bend on aluminum PCBs. Used SolidWorks and FEA to determine a 16° tool angle to account for spring-back, and updated the design with guide pins to prevent slipping. The tool was successfully fabricated and deployed in production, achieving accurate bends without surface damage and reducing development time and material use.
 ![tool_gif](Assets/img/Aluminium_PCB_bending_sim/Sim_gif.gif)
