@@ -1,5 +1,5 @@
 # Mechatronics Engineering
-With 8+ years of experience in manufacturing and production environments, including electronics assembly, machinery operation, and process improvement. Skilled in IPC-compliant assembly, documentation, and quality control. Now based in Petone, I’m excited to contribute to a forward-thinking projects.
+With 5+ years of experience in manufacturing and production environments.
 
 ## KEY SKILLS 
 - Prototyping & Troubleshooting
