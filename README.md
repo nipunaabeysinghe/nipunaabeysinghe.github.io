@@ -29,3 +29,7 @@ Led SPC initiatives to enhance first pass yield (FPY) in the production of trans
 
 ### Digital Layout Redesign with visTABLE – Transformer Production | GPV Lanka
 Led the redesign of the transformer production layout using visTABLE to support lean manufacturing and digital planning initiatives. Utilized CAD-based modeling and spaghetti diagram analysis to optimize operator and material flow across the production floor. The implemented layout reduced movement between operations, improved space utilization, and contributed to the company’s digital transformation toward data-driven factory planning.
+![Material_flow](Assets/img/Layout/Material flow.png)
+<sup>*Layout arrange according to Material flow* </sup>
+![Material_flow](Assets/img/Layout/PI section 3D.png)
+<sup>*3D layout for visualization* </sup>
