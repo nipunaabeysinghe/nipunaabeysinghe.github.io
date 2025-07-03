@@ -12,6 +12,7 @@ With 8+ years of experience in manufacturing and production environments, includ
 ### Interactive Assembly Instructions – Pilot Project | GPV Lanka
 Designed and implemented interactive step-by-step assembly instructions for complex PCB, cable, and mechanical housing assemblies using SolidWorks Composer and Aegis FactoryLogix MES. Instructions were displayed on touchscreen stations in the mechanical assembly area, guiding operators visually through each process including precise part placement and torque specs. As the project lead, I created 3D mechanical models and integrated them into the MES system. The pilot reduced training needs and minimized assembly errors, demonstrating the potential of MES-driven visual workflows.
 ![MCAD_gif](Assets/img/MCAD/MCAD_gif.gif)
+*Assembly instructions dispaly in Aegis FactoryLogix MES*
 ![Exploded_BOM_view](Assets/img/MCAD/Expolded_BOM_view.png)
 
 ### FEA-Based PCB Bending Tool Design | GPV Lanka
