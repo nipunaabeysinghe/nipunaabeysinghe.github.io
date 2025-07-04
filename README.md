@@ -1,12 +1,6 @@
-# Mechatronics Engineering
-With 5+ years of experience in manufacturing and production environments.
-
-## KEY SKILLS 
-- Prototyping & Troubleshooting
-- CAD Design (SolidWorks, Ansys, AutoCAD)
-- PCB Design (Altium Designer, KiCad, Eagle CAD)
-- Lean Manufacturing (FMEA, RCA, SPC)
-- Automation & Control systems (Festo FluidSim, SIMATIC S7, PLC Programming & Microcontroller)
+## Mechatronics Engineering
+I'm Nipuna, an engineer with hands-on experience in CAD and PCB design, embedded systems, prototyping and process optimization. I enjoy solving real-world problems through smart design and clear documentation. My work spans industries such as electronics manufacturing, mechanical assembly, and factory automation.
+This portfolio showcases some of the personal and professional projects I've worked on — combining engineering design, data analysis, and technical communication. I’m always looking to learn, build, and contribute to meaningful projects.
 
 ## Projects
 ### Interactive Assembly Instructions – Pilot Project | GPV Lanka
@@ -41,6 +35,5 @@ Reengineered the functionality of a failed De Nora MicroChem®3 chlorine dosing 
 
 ### Power-On Fan Reset Automation – Hotel Room Application | Personal Project
 Developed a custom PCB using an ATtiny85 microcontroller to automate fan recovery after power interruptions in hotel rooms. The board interfaces with a tactile button panel and simulates a triple-press sequence via BJT switching to restore full fan speed without manual input. Designed the hardware and firmware to ensure seamless post-outage operation. Successfully deployed in a live hotel environment, eliminating guest complaints and reducing manual resets by staff.
-
 ![PCB_valve_control](Assets/img/PCB/Jetwing_fan_front.png)
 <sup>*Fan reset PCB desined*</sup>
