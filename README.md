@@ -25,7 +25,7 @@ Led SPC initiatives to enhance first pass yield (FPY) in the production of trans
 Led the redesign of the transformer production layout using visTABLE to support lean manufacturing and digital planning initiatives. Utilized CAD-based modeling and spaghetti diagram analysis to optimize operator and material flow across the production floor. The implemented layout reduced movement between operations, improved space utilization, and contributed to the company’s digital transformation toward data-driven factory planning.
 ![Material_flow](Assets/img/Layout/Material flow.png)
 <sup>*Layout arrange according to Material flow* </sup>
-![Material_flow](Assets/img/Layout/PI section 3D.png)
+![3D_view](Assets/img/Layout/PI section 3D.png)
 <sup>*3D layout for visualization* </sup>
 
 ### Reengineered Chlorine Dosing Controller | Personal Project
@@ -35,5 +35,5 @@ Reengineered the functionality of a failed De Nora MicroChem®3 chlorine dosing 
 
 ### Power-On Fan Reset Automation – Hotel Room Application | Personal Project
 Developed a custom PCB using an ATtiny85 microcontroller to automate fan recovery after power interruptions in hotel rooms. The board interfaces with a tactile button panel and simulates a triple-press sequence via BJT switching to restore full fan speed without manual input. Designed the hardware and firmware to ensure seamless post-outage operation. Successfully deployed in a live hotel environment, eliminating guest complaints and reducing manual resets by staff.
-![PCB_valve_control](Assets/img/PCB/Jetwing_fan_front.png)
-<sup>*Fan reset PCB desined*</sup>
+![Fan_PCB](Assets/img/PCB/Jetwing_fan_front.png)
+<sup>*Fan reset PCB desined* </sup>
