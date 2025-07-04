@@ -35,3 +35,6 @@ Led the redesign of the transformer production layout using visTABLE to support 
 <sup>*3D layout for visualization* </sup>
 
 ### PCB design –  | GPV Lanka
+
+![PCB_valve_control](Assets/img/PCB/Chlorine_valve_controller_front.png)
+<sup>*Data analyzed using Excel,Minitab and Spotfire Statistica* </sup>
