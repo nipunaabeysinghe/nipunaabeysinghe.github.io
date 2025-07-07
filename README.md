@@ -31,6 +31,7 @@ Led the redesign of the transformer production layout using visTABLE to support 
 ### Reengineered Chlorine Dosing Controller | Personal Project
 Reengineered the functionality of a failed De Nora MicroChem®3 chlorine dosing controller used in a water treatment system. Designed a custom Arduino shield PCB to read a 4–20 mA chlorine sensor input and control a DC dosing valve with encoder feedback. Developed the complete embedded solution, including hardware and firmware, to replicate and improve the original system’s behavior using threshold-based actuation logic. Successfully deployed in a live plant environment, providing a reliable, cost-effective alternative that remained in operation for several years.
 ![PCB_valve_control](Assets/img/PCB/Chlorine_valve_controller_front.png)
+
 <sup>*PCB designe* </sup>
 
 ### Power-On Fan Reset Automation – Hotel Room Application | Personal Project
