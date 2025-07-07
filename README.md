@@ -39,5 +39,5 @@ Developed a custom PCB using an ATtiny85 microcontroller to automate fan recover
 
 ### Automated Label Cutter | Hirdaramani Industries
 Designed and built a standalone automated label cutting machine to replace a manual process and improve efficiency in garment manufacturing. The system uses an IR sensor to detect black guide lines on labels and controls a stepper motor to stop precisely at the cutting point. A microcontroller with a motor controller manages motor control and a user interface with a keypad and LCD screen, allowing operators to input label length and quantity. The solution significantly improved cutting accuracy and reduced the need for full-time operator involvement, supporting leaner production workflows.
-![Label cutter]()
+![Label cutter](Assets/img/Automated Label cutter/Label_cutter.jpg)
 <sup>*Automated Label Cutter* </sup>
