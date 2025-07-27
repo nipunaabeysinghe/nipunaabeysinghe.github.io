@@ -1,6 +1,5 @@
 # Mechatronics Engineering
-I'm Nipuna, an engineer with hands-on experience in CAD and PCB design, embedded systems, prototyping and process optimization. I enjoy solving real-world problems through smart design and clear documentation. My work spans industries such as electronics manufacturing, mechanical assembly, and factory automation.
-This portfolio showcases some of the personal and professional projects I've worked on — combining engineering design, data analysis, and technical communication. I’m always looking to learn, build, and contribute to meaningful projects.
+I'm Nipuna, an engineer with hands-on experience in CAD and PCB design, embedded systems, prototyping and process optimization. I enjoy solving real-world problems through smart design and clear documentation. This portfolio showcases some of the personal and professional projects I've worked on. I’m always looking to learn, build, and contribute to meaningful projects.
 
 ## Projects
 ### Interactive Assembly Instructions – Pilot Project | GPV Lanka
