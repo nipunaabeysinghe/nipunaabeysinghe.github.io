@@ -1,8 +1,8 @@
-# Mechatronics Engineering
-I'm Nipuna, an engineer with hands-on experience in CAD and PCB design, embedded systems, prototyping and process optimization. I enjoy solving real-world problems through smart design and clear documentation. This portfolio highlights some of my personal and professional projects. I am always looking to learn, build, and contribute to meaningful projects.
 [![Resume](https://img.shields.io/badge/View_Resume-3b82f6?style=for-the-badge)](https://rxresu.me/nipunaabeysinghe/mechatronics-engineer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nipunaabeysinghe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nipunaabeysinghe)
+# Mechatronics Engineering
+I'm Nipuna, an engineer with hands-on experience in CAD and PCB design, embedded systems, prototyping and process optimization. I enjoy solving real-world problems through smart design and clear documentation. This portfolio highlights some of my personal and professional projects. I am always looking to learn, build, and contribute to meaningful projects.
 
 ## Projects
 ### Interactive Assembly Instructions – Pilot Project | GPV Lanka
