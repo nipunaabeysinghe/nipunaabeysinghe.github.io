@@ -39,13 +39,12 @@ Led the redesign of the transformer production layout using visTABLE to support 
 ### Re-engineered Chlorine Dosing Controller | Personal Project
 Reengineered the functionality of a failed De Nora MicroChem®3 chlorine dosing controller used in a water treatment system. Designed a custom Arduino shield PCB to read a 4–20 mA chlorine sensor input and control a DC dosing valve with encoder feedback. Developed the complete embedded solution, including hardware and firmware, to replicate and improve the original system’s behavior using threshold-based actuation logic. Successfully deployed in a live plant environment, providing a reliable, cost-effective alternative.
 ![PCB_valve_control](Assets/img/PCB/Chlorine_valve_controller_front.png)
-
+<sup>*Re-engineered Chlorine Dosing Controller PCB design* </sup>
 ### Power-On Fan Reset Automation – Hotel Room Application | Personal Project
 Developed a custom PCB using an ATtiny85 microcontroller to automate fan recovery after power interruptions in hotel rooms. The board interfaces with a tactile button panel and simulates a triple-press sequence via BJT switching to restore full fan speed without manual input. Designed the hardware and firmware to ensure seamless post-outage operation. Successfully deployed in a live hotel environment, eliminating guest complaints and reducing manual resets by staff.
 ![Fan_PCB](Assets/img/PCB/Jetwing_fan_front.png)
-<sup>*Fan reset PCB designe* </sup>
 ![Fan_PCB](Assets/img/PCB/jetwing_3D.png)
-<sup>*Fan reset PCB designe* </sup>
+<sup>*Fan reset PCB design* </sup>
 
 ### Automated Label Cutter | Hirdaramani Industries
 Designed and built a standalone automated label cutting machine to replace a manual process and improve efficiency in garment manufacturing. The system uses an IR sensor to detect black guide lines on labels and controls a stepper motor to stop precisely at the cutting point. A microcontroller with a motor controller manages motor control and a user interface with a keypad and LCD screen, allowing operators to input label length and quantity. The solution significantly improved cutting accuracy and reduced the need for full-time operator involvement, supporting leaner production workflows.
