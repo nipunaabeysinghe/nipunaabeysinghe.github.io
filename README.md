@@ -43,7 +43,7 @@ Reengineered the functionality of a failed De Nora MicroChem®3 chlorine dosing 
 ### Power-On Fan Reset Automation – Hotel Room Application | Personal Project
 Developed a custom PCB using an ATtiny85 microcontroller to automate fan recovery after power interruptions in hotel rooms. The board interfaces with a tactile button panel and simulates a triple-press sequence via BJT switching to restore full fan speed without manual input. Designed the hardware and firmware to ensure seamless post-outage operation. Successfully deployed in a live hotel environment, eliminating guest complaints and reducing manual resets by staff.
 ![Fan_PCB](Assets/img/PCB/Jetwing_fan_front.png)
-![Fan_PCB](Assets/img/PCB/jetwing_3D.png)
+![Fan_PCB_3D](Assets/img/PCB/jetwing_fan_3D.png)
 <sup>*Fan reset PCB design* </sup>
 
 ### Automated Label Cutter | Hirdaramani Industries
