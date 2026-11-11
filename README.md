@@ -26,6 +26,9 @@ As the NPI engineer, designed and simulated a manual bending tool to meet produc
 
 ### Intelligent Fabric Pick-and-Place Robot Arm | BEng (Hons) Final Project
 Designed and built a working robotic fabric sorting prototype combining machine vision, embedded control, robotic manipulation and a custom electrostatic gripper. Developed MATLAB image-processing algorithms to detect fabric shape and size, with the classification result sent via serial communication to an Arduino-controlled 6-DOF robot arm. Implemented inverse kinematics for manipulator control and used experimental calibration with polynomial compensation to improve positioning accuracy. Designed the electrostatic gripper electrode in SolidWorks, fabricated and tested the end-effector and associated high-voltage control electronics, and integrated the complete system for automated pick-and-place sorting. The final prototype successfully identified fabric pieces, picked them using electrostatic adhesion and placed them at assigned locations according to their detected shape.
+![robot](Assets/img/final project/Arm.jpg)
+<sup>*Complete Robot Prototype, Fabric adhered to the gripper* </sup>
+
 
 ### Statistical Process Control – Transformer Manufacturing | GPV Lanka
 Led SPC initiatives to enhance first pass yield (FPY) in the production of transformers. Collected and analyzed process, material, and environmental data—including ferrite core AL values, wire and core lot traceability, and epoxy curing conditions—using Minitab and statistical tools. Conducted experiments to identify root causes of FPY variation. This resulted in improved product quality, reduced rework, and more efficient fault identification and resolution.
